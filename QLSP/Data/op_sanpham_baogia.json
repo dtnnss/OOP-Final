@@ -1,0 +1,39 @@
+{
+	"products": [
+		{
+			"Type":"1",
+			"Name":"Kingston 8GB",
+			"Amount":"2",
+			"Warranty":"0",
+			"Prices":"500000",
+			"Price per unit (USD)":"21.676",
+			"VND":"1000000",
+			"USD":"45.066"
+		},
+		{
+			"Type":"2",
+			"Name":"Asus GTX 1060",
+			"Amount":"1",
+			"Warranty":"12",
+			"Prices":"16000000",
+			"Price per unit (USD)":"693.617",
+			"VND":"16000000",
+			"USD":"695.331"
+		},
+		{
+			"Type":"3",
+			"Name":"FIFA 2021",
+			"Amount":"1",
+			"Warranty":"12",
+			"Prices":"6000000",
+			"Price per unit (USD)":"260.106",
+			"VND":"6000000",
+			"USD":"261.82"
+		}
+	],
+	"currency": [
+		{
+			"Type": "USD"
+		}
+	]
+}
